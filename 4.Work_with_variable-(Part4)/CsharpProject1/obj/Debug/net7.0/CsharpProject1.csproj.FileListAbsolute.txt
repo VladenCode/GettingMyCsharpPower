@@ -1,0 +1,14 @@
+X:\XR\C#\4.Work with variable data in C# console applications (Part4)\CsharpProject1\bin\Debug\net7.0\CsharpProject1.exe
+X:\XR\C#\4.Work with variable data in C# console applications (Part4)\CsharpProject1\bin\Debug\net7.0\CsharpProject1.deps.json
+X:\XR\C#\4.Work with variable data in C# console applications (Part4)\CsharpProject1\bin\Debug\net7.0\CsharpProject1.runtimeconfig.json
+X:\XR\C#\4.Work with variable data in C# console applications (Part4)\CsharpProject1\bin\Debug\net7.0\CsharpProject1.dll
+X:\XR\C#\4.Work with variable data in C# console applications (Part4)\CsharpProject1\bin\Debug\net7.0\CsharpProject1.pdb
+X:\XR\C#\4.Work with variable data in C# console applications (Part4)\CsharpProject1\obj\Debug\net7.0\CsharpProject1.GeneratedMSBuildEditorConfig.editorconfig
+X:\XR\C#\4.Work with variable data in C# console applications (Part4)\CsharpProject1\obj\Debug\net7.0\CsharpProject1.AssemblyInfoInputs.cache
+X:\XR\C#\4.Work with variable data in C# console applications (Part4)\CsharpProject1\obj\Debug\net7.0\CsharpProject1.AssemblyInfo.cs
+X:\XR\C#\4.Work with variable data in C# console applications (Part4)\CsharpProject1\obj\Debug\net7.0\CsharpProject1.csproj.CoreCompileInputs.cache
+X:\XR\C#\4.Work with variable data in C# console applications (Part4)\CsharpProject1\obj\Debug\net7.0\CsharpProject1.dll
+X:\XR\C#\4.Work with variable data in C# console applications (Part4)\CsharpProject1\obj\Debug\net7.0\refint\CsharpProject1.dll
+X:\XR\C#\4.Work with variable data in C# console applications (Part4)\CsharpProject1\obj\Debug\net7.0\CsharpProject1.pdb
+X:\XR\C#\4.Work with variable data in C# console applications (Part4)\CsharpProject1\obj\Debug\net7.0\CsharpProject1.genruntimeconfig.cache
+X:\XR\C#\4.Work with variable data in C# console applications (Part4)\CsharpProject1\obj\Debug\net7.0\ref\CsharpProject1.dll

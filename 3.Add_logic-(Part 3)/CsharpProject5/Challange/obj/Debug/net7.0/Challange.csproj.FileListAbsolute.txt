@@ -1,0 +1,14 @@
+X:\XR\C#\3.Add logic to C# console applications (Get started with C#, Part 3)\CsharpProject5\Challange\bin\Debug\net7.0\Challange.exe
+X:\XR\C#\3.Add logic to C# console applications (Get started with C#, Part 3)\CsharpProject5\Challange\bin\Debug\net7.0\Challange.deps.json
+X:\XR\C#\3.Add logic to C# console applications (Get started with C#, Part 3)\CsharpProject5\Challange\bin\Debug\net7.0\Challange.runtimeconfig.json
+X:\XR\C#\3.Add logic to C# console applications (Get started with C#, Part 3)\CsharpProject5\Challange\bin\Debug\net7.0\Challange.dll
+X:\XR\C#\3.Add logic to C# console applications (Get started with C#, Part 3)\CsharpProject5\Challange\bin\Debug\net7.0\Challange.pdb
+X:\XR\C#\3.Add logic to C# console applications (Get started with C#, Part 3)\CsharpProject5\Challange\obj\Debug\net7.0\Challange.GeneratedMSBuildEditorConfig.editorconfig
+X:\XR\C#\3.Add logic to C# console applications (Get started with C#, Part 3)\CsharpProject5\Challange\obj\Debug\net7.0\Challange.AssemblyInfoInputs.cache
+X:\XR\C#\3.Add logic to C# console applications (Get started with C#, Part 3)\CsharpProject5\Challange\obj\Debug\net7.0\Challange.AssemblyInfo.cs
+X:\XR\C#\3.Add logic to C# console applications (Get started with C#, Part 3)\CsharpProject5\Challange\obj\Debug\net7.0\Challange.csproj.CoreCompileInputs.cache
+X:\XR\C#\3.Add logic to C# console applications (Get started with C#, Part 3)\CsharpProject5\Challange\obj\Debug\net7.0\Challange.dll
+X:\XR\C#\3.Add logic to C# console applications (Get started with C#, Part 3)\CsharpProject5\Challange\obj\Debug\net7.0\refint\Challange.dll
+X:\XR\C#\3.Add logic to C# console applications (Get started with C#, Part 3)\CsharpProject5\Challange\obj\Debug\net7.0\Challange.pdb
+X:\XR\C#\3.Add logic to C# console applications (Get started with C#, Part 3)\CsharpProject5\Challange\obj\Debug\net7.0\Challange.genruntimeconfig.cache
+X:\XR\C#\3.Add logic to C# console applications (Get started with C#, Part 3)\CsharpProject5\Challange\obj\Debug\net7.0\ref\Challange.dll

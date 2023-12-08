@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Modify_the_content_of_strings_using_built_in_string_data_type_methods_in_Csharp
+build_property.ProjectDir = X:\XR\My_CsharpJourney-main\4.Work with variable data in C# console applications (Part4)\Modify_the_content_of_strings_using_methods\

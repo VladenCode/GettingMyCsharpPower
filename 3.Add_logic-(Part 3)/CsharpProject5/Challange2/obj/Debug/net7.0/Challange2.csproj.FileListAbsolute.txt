@@ -1,0 +1,14 @@
+X:\XR\C#\3.Add logic to C# console applications (Get started with C#, Part 3)\CsharpProject5\Challange2\bin\Debug\net7.0\Challange2.exe
+X:\XR\C#\3.Add logic to C# console applications (Get started with C#, Part 3)\CsharpProject5\Challange2\bin\Debug\net7.0\Challange2.deps.json
+X:\XR\C#\3.Add logic to C# console applications (Get started with C#, Part 3)\CsharpProject5\Challange2\bin\Debug\net7.0\Challange2.runtimeconfig.json
+X:\XR\C#\3.Add logic to C# console applications (Get started with C#, Part 3)\CsharpProject5\Challange2\bin\Debug\net7.0\Challange2.dll
+X:\XR\C#\3.Add logic to C# console applications (Get started with C#, Part 3)\CsharpProject5\Challange2\bin\Debug\net7.0\Challange2.pdb
+X:\XR\C#\3.Add logic to C# console applications (Get started with C#, Part 3)\CsharpProject5\Challange2\obj\Debug\net7.0\Challange2.GeneratedMSBuildEditorConfig.editorconfig
+X:\XR\C#\3.Add logic to C# console applications (Get started with C#, Part 3)\CsharpProject5\Challange2\obj\Debug\net7.0\Challange2.AssemblyInfoInputs.cache
+X:\XR\C#\3.Add logic to C# console applications (Get started with C#, Part 3)\CsharpProject5\Challange2\obj\Debug\net7.0\Challange2.AssemblyInfo.cs
+X:\XR\C#\3.Add logic to C# console applications (Get started with C#, Part 3)\CsharpProject5\Challange2\obj\Debug\net7.0\Challange2.csproj.CoreCompileInputs.cache
+X:\XR\C#\3.Add logic to C# console applications (Get started with C#, Part 3)\CsharpProject5\Challange2\obj\Debug\net7.0\Challange2.dll
+X:\XR\C#\3.Add logic to C# console applications (Get started with C#, Part 3)\CsharpProject5\Challange2\obj\Debug\net7.0\refint\Challange2.dll
+X:\XR\C#\3.Add logic to C# console applications (Get started with C#, Part 3)\CsharpProject5\Challange2\obj\Debug\net7.0\Challange2.pdb
+X:\XR\C#\3.Add logic to C# console applications (Get started with C#, Part 3)\CsharpProject5\Challange2\obj\Debug\net7.0\Challange2.genruntimeconfig.cache
+X:\XR\C#\3.Add logic to C# console applications (Get started with C#, Part 3)\CsharpProject5\Challange2\obj\Debug\net7.0\ref\Challange2.dll

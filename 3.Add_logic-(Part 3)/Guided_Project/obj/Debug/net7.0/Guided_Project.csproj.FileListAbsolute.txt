@@ -1,0 +1,14 @@
+X:\XR\C#\3.Add logic to C# console applications (Get started with C#, Part 3)\Guided_Project\obj\Debug\net7.0\Guided_Project.GeneratedMSBuildEditorConfig.editorconfig
+X:\XR\C#\3.Add logic to C# console applications (Get started with C#, Part 3)\Guided_Project\obj\Debug\net7.0\Guided_Project.AssemblyInfoInputs.cache
+X:\XR\C#\3.Add logic to C# console applications (Get started with C#, Part 3)\Guided_Project\obj\Debug\net7.0\Guided_Project.AssemblyInfo.cs
+X:\XR\C#\3.Add logic to C# console applications (Get started with C#, Part 3)\Guided_Project\obj\Debug\net7.0\Guided_Project.csproj.CoreCompileInputs.cache
+X:\XR\C#\3.Add logic to C# console applications (Get started with C#, Part 3)\Guided_Project\bin\Debug\net7.0\Guided_Project.exe
+X:\XR\C#\3.Add logic to C# console applications (Get started with C#, Part 3)\Guided_Project\bin\Debug\net7.0\Guided_Project.deps.json
+X:\XR\C#\3.Add logic to C# console applications (Get started with C#, Part 3)\Guided_Project\bin\Debug\net7.0\Guided_Project.runtimeconfig.json
+X:\XR\C#\3.Add logic to C# console applications (Get started with C#, Part 3)\Guided_Project\bin\Debug\net7.0\Guided_Project.dll
+X:\XR\C#\3.Add logic to C# console applications (Get started with C#, Part 3)\Guided_Project\bin\Debug\net7.0\Guided_Project.pdb
+X:\XR\C#\3.Add logic to C# console applications (Get started with C#, Part 3)\Guided_Project\obj\Debug\net7.0\Guided_Project.dll
+X:\XR\C#\3.Add logic to C# console applications (Get started with C#, Part 3)\Guided_Project\obj\Debug\net7.0\refint\Guided_Project.dll
+X:\XR\C#\3.Add logic to C# console applications (Get started with C#, Part 3)\Guided_Project\obj\Debug\net7.0\Guided_Project.pdb
+X:\XR\C#\3.Add logic to C# console applications (Get started with C#, Part 3)\Guided_Project\obj\Debug\net7.0\Guided_Project.genruntimeconfig.cache
+X:\XR\C#\3.Add logic to C# console applications (Get started with C#, Part 3)\Guided_Project\obj\Debug\net7.0\ref\Guided_Project.dll

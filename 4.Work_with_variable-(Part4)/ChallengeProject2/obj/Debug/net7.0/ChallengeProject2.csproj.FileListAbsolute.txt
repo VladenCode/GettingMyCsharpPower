@@ -1,0 +1,14 @@
+X:\XR\C#\4.Work with variable data in C# console applications (Part4)\ChallengeProject2\bin\Debug\net7.0\ChallengeProject2.exe
+X:\XR\C#\4.Work with variable data in C# console applications (Part4)\ChallengeProject2\bin\Debug\net7.0\ChallengeProject2.deps.json
+X:\XR\C#\4.Work with variable data in C# console applications (Part4)\ChallengeProject2\bin\Debug\net7.0\ChallengeProject2.runtimeconfig.json
+X:\XR\C#\4.Work with variable data in C# console applications (Part4)\ChallengeProject2\bin\Debug\net7.0\ChallengeProject2.dll
+X:\XR\C#\4.Work with variable data in C# console applications (Part4)\ChallengeProject2\bin\Debug\net7.0\ChallengeProject2.pdb
+X:\XR\C#\4.Work with variable data in C# console applications (Part4)\ChallengeProject2\obj\Debug\net7.0\ChallengeProject2.GeneratedMSBuildEditorConfig.editorconfig
+X:\XR\C#\4.Work with variable data in C# console applications (Part4)\ChallengeProject2\obj\Debug\net7.0\ChallengeProject2.AssemblyInfoInputs.cache
+X:\XR\C#\4.Work with variable data in C# console applications (Part4)\ChallengeProject2\obj\Debug\net7.0\ChallengeProject2.AssemblyInfo.cs
+X:\XR\C#\4.Work with variable data in C# console applications (Part4)\ChallengeProject2\obj\Debug\net7.0\ChallengeProject2.csproj.CoreCompileInputs.cache
+X:\XR\C#\4.Work with variable data in C# console applications (Part4)\ChallengeProject2\obj\Debug\net7.0\ChallengeProject2.dll
+X:\XR\C#\4.Work with variable data in C# console applications (Part4)\ChallengeProject2\obj\Debug\net7.0\refint\ChallengeProject2.dll
+X:\XR\C#\4.Work with variable data in C# console applications (Part4)\ChallengeProject2\obj\Debug\net7.0\ChallengeProject2.pdb
+X:\XR\C#\4.Work with variable data in C# console applications (Part4)\ChallengeProject2\obj\Debug\net7.0\ChallengeProject2.genruntimeconfig.cache
+X:\XR\C#\4.Work with variable data in C# console applications (Part4)\ChallengeProject2\obj\Debug\net7.0\ref\ChallengeProject2.dll

@@ -1,0 +1,14 @@
+X:\XR\C#\CsharpProjects5\Challange\bin\Debug\net7.0\Chalange.exe
+X:\XR\C#\CsharpProjects5\Challange\bin\Debug\net7.0\Chalange.deps.json
+X:\XR\C#\CsharpProjects5\Challange\bin\Debug\net7.0\Chalange.runtimeconfig.json
+X:\XR\C#\CsharpProjects5\Challange\bin\Debug\net7.0\Chalange.dll
+X:\XR\C#\CsharpProjects5\Challange\bin\Debug\net7.0\Chalange.pdb
+X:\XR\C#\CsharpProjects5\Challange\obj\Debug\net7.0\Chalange.GeneratedMSBuildEditorConfig.editorconfig
+X:\XR\C#\CsharpProjects5\Challange\obj\Debug\net7.0\Chalange.AssemblyInfoInputs.cache
+X:\XR\C#\CsharpProjects5\Challange\obj\Debug\net7.0\Chalange.AssemblyInfo.cs
+X:\XR\C#\CsharpProjects5\Challange\obj\Debug\net7.0\Chalange.csproj.CoreCompileInputs.cache
+X:\XR\C#\CsharpProjects5\Challange\obj\Debug\net7.0\Chalange.dll
+X:\XR\C#\CsharpProjects5\Challange\obj\Debug\net7.0\refint\Chalange.dll
+X:\XR\C#\CsharpProjects5\Challange\obj\Debug\net7.0\Chalange.pdb
+X:\XR\C#\CsharpProjects5\Challange\obj\Debug\net7.0\Chalange.genruntimeconfig.cache
+X:\XR\C#\CsharpProjects5\Challange\obj\Debug\net7.0\ref\Chalange.dll

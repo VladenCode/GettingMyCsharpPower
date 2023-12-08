@@ -1,0 +1,14 @@
+X:\XR\C#\4.Work with variable data in C# console applications (Part4)\Format_Alphanumeric_Data_for_Presentation_in_Csharp\bin\Debug\net7.0\Format_Alphanumeric_Data_for_Presentation_in_Csharp.exe
+X:\XR\C#\4.Work with variable data in C# console applications (Part4)\Format_Alphanumeric_Data_for_Presentation_in_Csharp\bin\Debug\net7.0\Format_Alphanumeric_Data_for_Presentation_in_Csharp.deps.json
+X:\XR\C#\4.Work with variable data in C# console applications (Part4)\Format_Alphanumeric_Data_for_Presentation_in_Csharp\bin\Debug\net7.0\Format_Alphanumeric_Data_for_Presentation_in_Csharp.runtimeconfig.json
+X:\XR\C#\4.Work with variable data in C# console applications (Part4)\Format_Alphanumeric_Data_for_Presentation_in_Csharp\bin\Debug\net7.0\Format_Alphanumeric_Data_for_Presentation_in_Csharp.dll
+X:\XR\C#\4.Work with variable data in C# console applications (Part4)\Format_Alphanumeric_Data_for_Presentation_in_Csharp\bin\Debug\net7.0\Format_Alphanumeric_Data_for_Presentation_in_Csharp.pdb
+X:\XR\C#\4.Work with variable data in C# console applications (Part4)\Format_Alphanumeric_Data_for_Presentation_in_Csharp\obj\Debug\net7.0\Format_Alphanumeric_Data_for_Presentation_in_Csharp.GeneratedMSBuildEditorConfig.editorconfig
+X:\XR\C#\4.Work with variable data in C# console applications (Part4)\Format_Alphanumeric_Data_for_Presentation_in_Csharp\obj\Debug\net7.0\Format_Alphanumeric_Data_for_Presentation_in_Csharp.AssemblyInfoInputs.cache
+X:\XR\C#\4.Work with variable data in C# console applications (Part4)\Format_Alphanumeric_Data_for_Presentation_in_Csharp\obj\Debug\net7.0\Format_Alphanumeric_Data_for_Presentation_in_Csharp.AssemblyInfo.cs
+X:\XR\C#\4.Work with variable data in C# console applications (Part4)\Format_Alphanumeric_Data_for_Presentation_in_Csharp\obj\Debug\net7.0\Format_Alphanumeric_Data_for_Presentation_in_Csharp.csproj.CoreCompileInputs.cache
+X:\XR\C#\4.Work with variable data in C# console applications (Part4)\Format_Alphanumeric_Data_for_Presentation_in_Csharp\obj\Debug\net7.0\Format_Alphanumeric_Data_for_Presentation_in_Csharp.dll
+X:\XR\C#\4.Work with variable data in C# console applications (Part4)\Format_Alphanumeric_Data_for_Presentation_in_Csharp\obj\Debug\net7.0\refint\Format_Alphanumeric_Data_for_Presentation_in_Csharp.dll
+X:\XR\C#\4.Work with variable data in C# console applications (Part4)\Format_Alphanumeric_Data_for_Presentation_in_Csharp\obj\Debug\net7.0\Format_Alphanumeric_Data_for_Presentation_in_Csharp.pdb
+X:\XR\C#\4.Work with variable data in C# console applications (Part4)\Format_Alphanumeric_Data_for_Presentation_in_Csharp\obj\Debug\net7.0\Format_Alphanumeric_Data_for_Presentation_in_Csharp.genruntimeconfig.cache
+X:\XR\C#\4.Work with variable data in C# console applications (Part4)\Format_Alphanumeric_Data_for_Presentation_in_Csharp\obj\Debug\net7.0\ref\Format_Alphanumeric_Data_for_Presentation_in_Csharp.dll
