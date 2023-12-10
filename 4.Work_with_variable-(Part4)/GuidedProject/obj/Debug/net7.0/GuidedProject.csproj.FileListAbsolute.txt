@@ -1,0 +1,14 @@
+X:\XR\GettingMyCsharpPower\4.Work_with_variable-(Part4)\GuidedProject\bin\Debug\net7.0\GuidedProject.exe
+X:\XR\GettingMyCsharpPower\4.Work_with_variable-(Part4)\GuidedProject\bin\Debug\net7.0\GuidedProject.deps.json
+X:\XR\GettingMyCsharpPower\4.Work_with_variable-(Part4)\GuidedProject\bin\Debug\net7.0\GuidedProject.runtimeconfig.json
+X:\XR\GettingMyCsharpPower\4.Work_with_variable-(Part4)\GuidedProject\bin\Debug\net7.0\GuidedProject.dll
+X:\XR\GettingMyCsharpPower\4.Work_with_variable-(Part4)\GuidedProject\bin\Debug\net7.0\GuidedProject.pdb
+X:\XR\GettingMyCsharpPower\4.Work_with_variable-(Part4)\GuidedProject\obj\Debug\net7.0\GuidedProject.GeneratedMSBuildEditorConfig.editorconfig
+X:\XR\GettingMyCsharpPower\4.Work_with_variable-(Part4)\GuidedProject\obj\Debug\net7.0\GuidedProject.AssemblyInfoInputs.cache
+X:\XR\GettingMyCsharpPower\4.Work_with_variable-(Part4)\GuidedProject\obj\Debug\net7.0\GuidedProject.AssemblyInfo.cs
+X:\XR\GettingMyCsharpPower\4.Work_with_variable-(Part4)\GuidedProject\obj\Debug\net7.0\GuidedProject.csproj.CoreCompileInputs.cache
+X:\XR\GettingMyCsharpPower\4.Work_with_variable-(Part4)\GuidedProject\obj\Debug\net7.0\GuidedProject.dll
+X:\XR\GettingMyCsharpPower\4.Work_with_variable-(Part4)\GuidedProject\obj\Debug\net7.0\refint\GuidedProject.dll
+X:\XR\GettingMyCsharpPower\4.Work_with_variable-(Part4)\GuidedProject\obj\Debug\net7.0\GuidedProject.pdb
+X:\XR\GettingMyCsharpPower\4.Work_with_variable-(Part4)\GuidedProject\obj\Debug\net7.0\GuidedProject.genruntimeconfig.cache
+X:\XR\GettingMyCsharpPower\4.Work_with_variable-(Part4)\GuidedProject\obj\Debug\net7.0\ref\GuidedProject.dll
